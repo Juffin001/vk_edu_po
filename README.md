@@ -35,4 +35,7 @@ LeanCanvas:
 2. Revenue pivot - делать доход не от подписок, а чтобы каждый пользователь покупал доступ к конкретному обсуждению.  
 3. Zoom-out pivot - уйти исключительно от книжной тематики и начать собирать компании также по общению на разных языках, игры в онлайн игры и т. п.  
 
+Если бы мы применили revenue pivot, то наш LeanCanvas выглядел бы так:  
+<img width="1078" height="687" alt="image" src="https://github.com/user-attachments/assets/ad8ddaa1-4a6b-4c35-b77a-59485e6eb2d6" />
+
 
