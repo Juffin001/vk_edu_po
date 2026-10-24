@@ -38,4 +38,16 @@ LeanCanvas:
 Если бы мы применили revenue pivot, то наш LeanCanvas выглядел бы так:  
 <img width="1078" height="687" alt="image" src="https://github.com/user-attachments/assets/ad8ddaa1-4a6b-4c35-b77a-59485e6eb2d6" />
 
+## дз3
+Выберем изначальный LeanCanvas. Распишем роли пользователей и user-stories.  
+<img width="1420" height="788" alt="image" src="https://github.com/user-attachments/assets/56a5666c-0602-4a52-a68a-09252df6d2a6" />  
+Теперь приоритезируем функционал фреймворком MoSCoW:  
+<img width="1468" height="830" alt="image" src="https://github.com/user-attachments/assets/e303803f-11ab-4db6-874d-8690f6dde35e" />  
+MVP и MLP:  
+<img width="1217" height="589" alt="image" src="https://github.com/user-attachments/assets/a1a56ddb-c0b8-4cc3-8043-5adb38576c08" />  
+Функциональные и нет требования для 2 истории:  
+<img width="1396" height="673" alt="image" src="https://github.com/user-attachments/assets/60d3c0b5-4c3e-4602-bf44-981f35810aba" />  
+
+
+
 
