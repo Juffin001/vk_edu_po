@@ -47,7 +47,13 @@ MVP и MLP:
 <img width="1217" height="589" alt="image" src="https://github.com/user-attachments/assets/a1a56ddb-c0b8-4cc3-8043-5adb38576c08" />  
 Функциональные и нет требования для 2 истории:  
 <img width="1396" height="673" alt="image" src="https://github.com/user-attachments/assets/60d3c0b5-4c3e-4602-bf44-981f35810aba" />  
+## дз4
 
+<img width="607" height="672" alt="image" src="https://github.com/user-attachments/assets/c2b24fc5-54f4-4388-83ce-c4f8b52088b7" />
 
+<img width="487" height="262" alt="image" src="https://github.com/user-attachments/assets/915f8a97-08d1-40e6-b7dd-fb08cdc4034a" />
 
+<img width="779" height="531" alt="image" src="https://github.com/user-attachments/assets/5226c836-d224-4405-a1fa-6c3fa1c094a9" />
+
+<img width="384" height="553" alt="image" src="https://github.com/user-attachments/assets/df562924-10fd-41a5-b3e8-56bb035acce0" />
 
