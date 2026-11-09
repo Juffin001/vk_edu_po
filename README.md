@@ -57,3 +57,14 @@ MVP и MLP:
 
 <img width="384" height="553" alt="image" src="https://github.com/user-attachments/assets/df562924-10fd-41a5-b3e8-56bb035acce0" />
 
+## дз5  
+
+<img width="799" height="635" alt="image" src="https://github.com/user-attachments/assets/2a52f963-4192-408a-be04-e76639db8463" />  
+
+<img width="1058" height="697" alt="image" src="https://github.com/user-attachments/assets/bb211fbc-640f-4b09-be6c-1246d76443c2" />  
+
+<img width="551" height="375" alt="image" src="https://github.com/user-attachments/assets/a5fa7748-c047-4030-8fd8-4272ff2e89c2" />  
+
+
+
+
